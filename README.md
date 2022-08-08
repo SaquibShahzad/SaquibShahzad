@@ -5,7 +5,7 @@ Who is Saquib? 🤔
 * 🌱  Co-Founder of [Codeprentice](https://codeprentice.org/)
 * 🥽 Ex-President of University of Waterloo Virtual Reality Club 
 * 🔙  For my past co-ops, I have worked as a Software Build Engineer at [OpenText](https://www.opentext.com/) and a Backend Blockchain Engineer at [01Com](https://www.ironcap.ca/)
-* ⚡  Fun fact: My PR for a 5k run is 25:54!
+* ⚡  Fun fact: My PR for a 5k run is 25:02!
 
 Always one to build (but mostly break) things, I love turning caffeine into code that makes life easier. Please reach out to me via [LinkedIn](https://www.linkedin.com/in/saquib-shahzad/) or [Email](mailto:heysaquib@gmail.com) if you would like to chat about potential colloboration on projects and/or other opportunities. 
 
